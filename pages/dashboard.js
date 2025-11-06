@@ -1,0 +1,1 @@
+export default function Dashboard(){return <div className='min-h-screen container'><h1>Dashboard Siswa</h1><p>Placeholder</p></div>}

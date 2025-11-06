@@ -1,0 +1,1 @@
+export default function Admin(){return <div className='min-h-screen container'><h1>Admin Panel</h1><p>Placeholder</p></div>}
