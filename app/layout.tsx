@@ -1,13 +1,12 @@
-import "./globals.css";
+import './globals.css';
 
 export const metadata = {
-  title: "Cerdas UTBK",
-  description: "Platform bimbel UTBK online"
+  title: 'Cerdas UTBK',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="id">
       <body>{children}</body>
     </html>
   );
